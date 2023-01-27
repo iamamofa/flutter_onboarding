@@ -2,11 +2,11 @@
 # 🔥🔥 Flutter Onboarding And Login Page (Bubble App -Temp)
 
 <h1 align="center">
-  Justice buzz
+  Justicetech
 </h1>
 
 
-[![GitHub DaymaManish](https://img.shields.io/github/followers/DaymaManish?label=follow&style=social)](https://github.com/iamamofa?tab=repositories)
+[![GitHub iamamofa](https://img.shields.io/github/followers/iamamofa?label=follow&style=social)](https://github.com/iamamofa?tab=repositories)
 [![Gmail Badge](https://img.shields.io/badge/-manishdayma65@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joamofa@st.ug.edu.gh)](mailto:joamofa@st.ug.edu.gh)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/i_am_amofa/?hl=en)
@@ -25,4 +25,4 @@ Star⭐ the repo if you like what you like more stuff on flutter 😉.
 ## Some Screenshots For You 💖
 
 <img height="600" width="300" src="screenshots/justice1.png">|
-<img height="600" width="300" src="screenshots/justice 2.png">  
+<img height="600" width="300" src="screenshots/justice2.png">  
