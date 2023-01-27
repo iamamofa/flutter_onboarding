@@ -7,7 +7,7 @@
 
 
 [![GitHub iamamofa](https://img.shields.io/github/followers/iamamofa?label=follow&style=social)](https://github.com/iamamofa?tab=repositories)
-[![Gmail Badge](https://img.shields.io/badge/-manishdayma65@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joamofa@st.ug.edu.gh)](mailto:joamofa@st.ug.edu.gh)
+[![Gmail Badge](https://img.shields.io/badge/-joamofa@st.ug.edu.gh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joamofa@st.ug.edu.gh)](mailto:joamofa@st.ug.edu.gh)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/i_am_amofa/?hl=en)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justice-ohene-amofa-349b44173/?originalSubdomain=gh)
