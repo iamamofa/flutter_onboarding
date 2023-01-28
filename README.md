@@ -1,5 +1,5 @@
 
-# 🔥🔥 Flutter Onboarding And Login Page (Bubble App -Temp)
+# 🔥🔥 Flutter Onboarding And Login Page (Bubble UI)
 
 <h1 align="center">
   Justicetech
